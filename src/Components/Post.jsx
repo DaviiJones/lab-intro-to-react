@@ -1,6 +1,6 @@
 import React from "react";
 
-const NavBar = () => {
+const Post = () => {
 return (
 <div>
 <h2>Title</h2>
